@@ -1,0 +1,23 @@
+{
+  "name": "mural_avisos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuspmacedo/mural_avisos.git"
+  },
+  "author": "Vinicius P Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciuspmacedo/mural_avisos/issues"
+  },
+  "homepage": "https://github.com/viniciuspmacedo/mural_avisos#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
